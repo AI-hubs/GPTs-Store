@@ -1,6 +1,6 @@
 # 中文版ChatGPT GPTs自定义机器人列表-全网最全收集（经常更新）
 开源免费的 GPTs Store GPTs  商店列表，更新收录最全的 GPTs，分享最有趣有意思的 GPTs
-欢迎提交哦～
+欢迎提交哦，[GPTs 提交发布页面](https://github.com/AI-hubs/GPTs-Store/issues/2)～
 
 ## GPTs 是什么？
 GPTs  是 OpenAI 推出的无需代码，即可自定义的 ChatGPT 机器人，需要 Plus 才能开通和使用，欢迎购买在此：[ChatGPT PLus 账号](https://fakeai.vip)
