@@ -1,4 +1,4 @@
-# 中文版本ChatGPT 的 GPTs自定义机器人列表-全网最全收集（经常更新）
+# 中文版ChatGPT GPTs自定义机器人列表-全网最全收集（经常更新）
 开源免费的 GPTs Store GPTs  商店列表，更新收录最全的 GPTs，分享最有趣有意思的 GPTs
 欢迎提交哦～
 
