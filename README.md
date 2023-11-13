@@ -61,7 +61,6 @@ GPTs  是 OpenAI 推出的无需代码，即可自定义的 ChatGPT 机器人，
 | 紫微斗数 | ![紫微斗数](https://files.oaiusercontent.com/file-F7hgkROg4tPTak9ns5cWJzXy?se=2123-10-17T03%3A54%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D148c1a77-03b0-44b4-b24a-463397911729.png&sig=iyBDer0j9HOIcWK13M5iC6ZMmMP1WpLu%2BLdyGz24quQ%3D) | 我的知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，八卦和风水会怎样。科学和玄学异曲会同工。顺利走人生。 - by LONG LI | [点我打开 紫微斗数](https://chat.openai.com/g/g-Y3I1GyGUn-zi-wei-dou-shu?utm_source=GPTsHunter) |
 | A7CM2 说明书 | ![A7CM2 说明书](https://files.oaiusercontent.com/file-1hZf5uGGMyDYlQQOLG2Pm4qn?se=2123-10-16T20%3A50%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18759085-f8fa-4ba4-bfef-aa95787c10f1.png&sig=qjFFTJh2W5VFmqcymbOZzvPN5FuNfb4wkr%2BDwDRZodc%3D) | 回答你所有关于 A7CM2 的问题（基于中文版说明书） - by Yihang | [点我打开 A7CM2 说明书](https://chat.openai.com/g/g-yxD1gpxOL-a7cm2-shuo-ming-shu?utm_source=GPTsHunter) |
 | 王阳明 | ![王阳明](https://files.oaiusercontent.com/file-OkaORundQuVqwMKS3XZlrE0h?se=2123-10-17T06%3A09%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dwym.jpeg&sig=iOLWHvSUV4Ce4V3Uj/RsAxgCMaGM7A9HaySRGIslfRg%3D) | 心学创始人王阳明 - by Bruno Konopelski | [点我打开 王阳明](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming?utm_source=GPTsHunter) |
-| nan | ![nan](nan) | nan | [点我打开 nan](https://chat.openai.com/g/g-ThKd0JmFB-prompt-you-hua-shen-qi) |
 
 
 
