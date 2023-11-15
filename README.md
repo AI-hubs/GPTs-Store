@@ -289,7 +289,8 @@ GPTs  是 OpenAI 推出的无需代码，即可自定义的 ChatGPT 机器人，
 | 紫微斗数大师 | ![紫微斗数大师](https://files.oaiusercontent.com/file-GHcMRDQZusm5jLWU9qwAYKWz?se=2123-10-18T07%3A56%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3b9b1fd0-bf29-46d8-979f-92f955f46f0a.png&sig=510SKo3twX9uWn%2BMwo6h5No5OC52F9zBT9uRHgferxY%3D) | 紫微斗数大师帮您算命 - by alcheap.net | [点我打开 紫微斗数大师](https://chat.openai.com/g/g-j456qiaTg-zi-wei-dou-shu-da-shi?utm_source=xtxian.com) |
 | 对联大师 | ![对联大师](https://files.oaiusercontent.com/file-qLRGIg5uXA8dPAp8jN6oEUSP?se=2123-10-17T12%3A58%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18e4ccf7-664c-4218-9edc-4b848820db95.png&sig=9IoNzRnaXy60gKuQhTrDUg0fEFO%2BvUQD095PfrE0QpQ%3D) | 遵循对联的传统和规则，根据上联给出下联。 - by YU HANG XIA | [点我打开 对联大师](https://chat.openai.com/g/g-5ah4pxase-dui-lian-da-shi?utm_source=xtxian.com) |
 | Interviewer Pro | ![Interviewer Pro](https://files.oaiusercontent.com/file-cgwu56xUtAGwU8vtWiomlHk7?se=2123-10-18T03%3A59%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D181461d1-4be8-43bb-a6a2-32fc7b0b54a9.png&sig=3OJVgIf7ywhcnCBf0xSvKjZvUwtFQuBJ6pqwU7%2BTyCc%3D) | 作为专业面试官，提出相关的职位面试问题。 - by YUANHENG TAO | [点我打开 Interviewer Pro](https://chat.openai.com/g/g-ZS5BfMK1g-interviewer-pro?utm_source=xtxian.com) |
-
+| Degree税务咨询 | ![Degree税务咨询](https://files.oaiusercontent.com/file-MNSqvKBFQSXcv9VG9gYz8Za2?se=2023-11-15T01%3A29%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D3599%2C%20immutable&rscd=attachment%3B%20filename%3D%25E5%259B%25BE%25E7%2589%25872.jpg&sig=vL4De113qKO5F5qyA6gZITiWc5LsGyKgFe0Xc9nbB1k%3D) | Degree税务咨询
+ - by Yueyang Ma | [点我打开 Degree税务咨询](https://chat.openai.com/g/g-FFXn2yxoU-degreeshui-wu-zi-xun?utm_source=xtxian.com) |
 
 
 
